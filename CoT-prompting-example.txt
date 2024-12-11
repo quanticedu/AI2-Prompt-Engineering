@@ -1,0 +1,19 @@
+// PROMPT VERSION 1
+
+Text:
+Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Nisi vitae suscipit tellus mauris a diam maecenas. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Gravida rutrum quisque non tellus orci. Fermentum posuere urna nec tincidunt praesent. Ut pharetra sit amet aliquam. Ornare aenean euismod elementum nisi quis. Sed turpis tincidunt id aliquet. Fames ac turpis egestas integer eget. Proin fermentum leo vel orci porta non. Ac turpis egestas integer eget aliquet nibh praesent tristique. 
+
+Question: How many words are in the text above?
+
+
+// PROMPT VERSION 2 (WITH CHAIN OF THOUGHT STEPS)
+
+Text:
+Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Nisi vitae suscipit tellus mauris a diam maecenas. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Gravida rutrum quisque non tellus orci. Fermentum posuere urna nec tincidunt praesent. Ut pharetra sit amet aliquam. Ornare aenean euismod elementum nisi quis. Sed turpis tincidunt id aliquet. Fames ac turpis egestas integer eget. Proin fermentum leo vel orci porta non. Ac turpis egestas integer eget aliquet nibh praesent tristique. 
+
+Question: How many words are in the text above?
+
+Steps:
+1. Generate a numbered list of all the words in the text block provided.
+2. Create a new index for each subsequent instance of a word, treating each instance of a word as its own entity.
+3. Answer the question about the word count considering that the number of words indexed will be equal to the index of the final number indexed.

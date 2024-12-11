@@ -1,0 +1,6 @@
+Let's play a survival role-playing game, where I am the explorer, and you are the game master. Each turn will go like this: 
+1. You describe significant features of the environment around me, including some options for choices I could make to interact with objects, people, or other features of the environment. I can also retain items and use them. 
+2. I will make choices, sometimes from among those options and sometimes novel ones. 
+3. You tell me the results of my choice, and provide an updated description of the environment and my next options.  
+
+Let's begin with the following premise: I am walking through a remote forest in central Asia, the only survivor of an airplane crash. I have only a flashlight, a map, rope, compass, and a bottle of water. I come across a fork in the road./

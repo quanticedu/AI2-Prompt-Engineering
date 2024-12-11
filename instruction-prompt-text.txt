@@ -1,0 +1,12 @@
+Read the following email, which was sent in response to an insurance quote request. Remove any personally identifiable information (PII), and replace it with the appropriate	placeholder. For example, replace the name "Susan" with "[CUSTOMER NAME]".
+
+Hi Susan,
+
+I'm writing because I noticed you recently requested a quote for auto insurance. I'm a representative at a local agency (The Insurance Bunch), and I wanted to let you know that we have great rates available. Let me know when you're available to discuss your options. 
+
+Thanks,
+
+Tony Lonzo
+
+Phone: 456-845-8743
+Email: Tony@theinsurancebunch.com

@@ -1,0 +1,17 @@
+|                                | 12/31/2022 |
+|--------------------------------|------------|
+| Total Assets                   | 13,045,000 |
+| Total Liabilities Net Minority Interest | 9,482,000  |
+| Total Equity Gross Minority Interest | 3,563,000  |
+| Total Capitalization           | 3,563,000  |
+| Common Stock Equity            | 3,563,000  |
+| Capital Lease Obligations      | 736,000    |
+| Net Tangible Assets            | 3,563,000  |
+| Working Capital               | -1,832,000 |
+| Invested Capital               | 7,210,000  |
+| Tangible Book Value            | 3,563,000  |
+| Total Debt                     | 4,383,000  |
+| Net Debt                       | 2,605,000  |
+| Share Issued                   | 323,878    |
+| Ordinary Shares Number         | 323,878    |
+| Treasury Shares Number         | 159,000    |
